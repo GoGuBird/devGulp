@@ -1,22 +1,22 @@
 ## 基本指令
-# 将src文件夹下文件，生成build下的识别文件
+## 将src文件夹下文件，生成build下的识别文件
 ```bash
 gulp
 ```
-# 将开启服务，要先生成build文件，才能响应，请求到
+## 将开启服务，要先生成build文件，才能响应，请求到
 ```bash
 gulp server
 ```
-# 删除build文件夹
+## 删除build文件夹
 ```bash
 gulp clean
 ```
 
-# 生成压缩文件
+## 生成压缩文件
 ```bash
 gulp build
 ```
-# 删除压缩文件
+## 删除压缩文件
 ```bash
 gulp cleanweb
 ```
